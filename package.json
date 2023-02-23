@@ -1,7 +1,7 @@
 {
-  "name": "fca-anup-yogesh",
+  "name": "test-fca-l",
   "version": "10.0.3",
-  "description": "Facebook Chat Api Made By Anup Kumar !!!",
+  "description": "Facebook Chat Api Made By Mr.Unknown",
   "scripts": {
     "test": "mocha",
     "lint": "./node_modules/.bin/eslint **.js",
@@ -13,17 +13,17 @@
   },
   "keywords": [
     "Fca",
-    "fca-anup-yogesh",
-    "anup",
-    "yogesh",
-    "fca anup",
+    "fca-test",
+    "Test",
+    "Joshua",
+    "fca josh",
     "fca",
-    "Fca-yogesh"
+    "Fca-joshua"
   ],
   "bugs": {
-    "url": "https://github.com/Anupx0/Dark-Rulex/issues"
+    "url": "https://github.com/tyronzapanta/Dark-Rulex/issues"
   },
-  "author": "Anup Kumar",
+  "author": "Unknown",
   "license": "MIT",
   "dependencies": {
     "aes-js": "^3.1.2",
